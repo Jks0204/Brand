@@ -44,7 +44,7 @@ box-sizing:border-box; padding-left:0px; margin-bottom:3px; transition: 0.5s;}
 .fa-solid:hover, .fa-brands:hover {opacity:1; transform:scale(1.4);}
 
 /* 텍스트 박스 */
-.txtBox { width:520px; height:300px; position:fixed; top:200px; right:100px; }
+.txtBox { width:600px; height:300px; position:fixed; top:200px; right:100px; }
 .txt { position:absolute; top:200px; right:0px; font-size:34px; font-weight: 400; color:#bbb; letter-spacing:-2px;}
 .tit { position:absolute; top:70px; right:50px; font-size:100px; color:#EA6310; font-family:play; letter-spacing:-1px;}
 .tit em { font-size:80px;  color:#F7BB82;}
